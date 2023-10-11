@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 236, 208);
+  }
+.neew{
+    text-align: center;
+    font-size: 60px;
+}
+.navbar{
+    padding: 5px;
+    height: 30%;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
+    text-align: left;
+    align-items: center;
+}
+.navbar h2{
+    padding-left: 22%;
+}
+.navbar h1{
+    padding-left: 22%;
+}
+.navbar img {
+    width: 20%;
+    
+    height: auto; 
+    border-radius: 20%; /* Add border radius to make the image circular */
+    float: left;
+ 
+}
